@@ -1,12 +1,15 @@
-def calcular(a, b, c):
-    res = a * b + c
-    return res
+def multiplicacion(multiplicando, multiplicador):
+    producto = multiplicando * multiplicador
+    return producto
 
-def principal():
-    x = 5
-    y = 3
-    z = 7
-    resultado = calcular(x, y, z)
-    print("El resultado es:", resultado)
+def suma(producto, c):
+    sumatoria = producto + sumando
+    return sumatoria
 
-principal()
+if __name__=="__main__":
+    multiplicando = float(input("Ingresar multiplicando: "))
+    multiplicador = float(input("Ingresar multiplicador: "))
+    sumando = float(input("Ingresar sumando: "))
+    multiplica = multiplicacion(multiplicando, multiplicador)
+    sumatotal = suma(multiplica, sumando)
+    print(f"{multiplicando} * {multiplicador} + {sumando} = {sumatotal}")
