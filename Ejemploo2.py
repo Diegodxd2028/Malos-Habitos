@@ -2,7 +2,7 @@ def multiplicacion(multiplicando, multiplicador):
     producto = multiplicando * multiplicador
     return producto
 
-def suma(producto, c):
+def suma(producto, sumando):
     sumatoria = producto + sumando
     return sumatoria
 
