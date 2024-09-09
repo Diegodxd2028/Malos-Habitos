@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c44451-0c59-441e-a6af-8df1b2b2812b" name="Changes" comment="Línea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemploo1.py" afterDir="false" />
-    </list>
+    <list default="true" id="d2c44451-0c59-441e-a6af-8df1b2b2812b" name="Changes" comment="Modificación ejercicio01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Refactorizar_ejemplo01" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +33,7 @@
     "Python.Legible.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Refactorizar__ejemplo01",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -190,11 +187,20 @@
       <option name="project" value="LOCAL" />
       <updated>1725910414352</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modificación ejercicio01">
+      <option name="closed" value="true" />
+      <created>1725911625673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911625673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Línea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Línea base del proyecto" />
+    <MESSAGE value="Modificación ejercicio01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificación ejercicio01" />
   </component>
 </project>
